@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    text-align: center;
+
+    background-repeat: no-repeat;
+    background-size: 90%;
+}
+h2{
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+}
+button{
+    width: 80px;
+    height: 40px;
+    background-color: #4c1212;
+    color: white;
+    border-radius: 7px;
+    border: 2px solid #fff;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+button:hover {
+    cursor: pointer;
+}
